@@ -1,8 +1,44 @@
 {
   "phrases": [
     {
-      "sound": "@/assets/phrases/day1_1.mp3",
+      "sound": "day1_1.mp3",
       "transcript": "Il fait beaue aujourd'ue"
+    },
+    {
+      "sound": "day1_2.mp3",
+      "transcript": "Je ne suis pas riche"
+    },
+    {
+      "sound": "day1_3.mp3",
+      "transcript": "Ce sac est lourd"
+    },
+    {
+      "sound": "day1_4.mp3",
+      "transcript": "Ces sacs sont lourds"
+    },
+    {
+      "sound": "day1_5.mp3",
+      "transcript": "Regarde, voilà mon ami"
+    },
+    {
+      "sound": "day1_6.mp3",
+      "transcript": "Mon frère et moi sommes de bons joueurs de tennis"
+    },
+    {
+      "sound": "day1_7.mp3",
+      "transcript": "Sa mère est à la maison. Il est à l'école"
+    },
+    {
+      "sound": "day1_8.mp3",
+      "transcript": "Ses enfants sont à l'école"
+    },
+    {
+      "sound": "day1_9.mp3",
+      "transcript": "Je suis chauffeur de taxi"
+    },
+    {
+      "sound": "day1_10.mp3",
+      "transcript": "Ma sœur est infirmière"
     }
   ]
 }
